@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LunarClientRoblox/Lunar-Client/main/NewMainScript.lua", true))()
